@@ -1,0 +1,60 @@
+
+{
+  "students": [
+    {
+      "name": "Rahul",
+      "roll_no": "101",
+      "attendance": {
+        "Day1": "P",
+        "Day2": "P",
+        "Day3": "A",
+        "Day4": "P",
+        "Day5": "P"
+      }
+    },
+    {
+      "name": "Priya",
+      "roll_no": "102",
+      "attendance": {
+        "Day1": "P",
+        "Day2": "A",
+        "Day3": "P",
+        "Day4": "P",
+        "Day5": "A"
+      }
+    },
+    {
+      "name": "Amit",
+      "roll_no": "103",
+      "attendance": {
+        "Day1": "P",
+        "Day2": "P",
+        "Day3": "P",
+        "Day4": "P",
+        "Day5": "P"
+      }
+    },
+    {
+      "name": "Sneha",
+      "roll_no": "104",
+      "attendance": {
+        "Day1": "A",
+        "Day2": "P",
+        "Day3": "A",
+        "Day4": "P",
+        "Day5": "P"
+      }
+    },
+    {
+      "name": "Vikram",
+      "roll_no": "105",
+      "attendance": {
+        "Day1": "P",
+        "Day2": "A",
+        "Day3": "P",
+        "Day4": "A",
+        "Day5": "P"
+      }
+    }
+  ]
+}
